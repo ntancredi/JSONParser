@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/ntanc/source/repos/CMakeTestProject/out/build/x64-debug/CMakeFiles/ai_processor_module.dir/embed.manifest"
